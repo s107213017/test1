@@ -4,5 +4,9 @@ JK hey~
 JK吃豬肉
 JKJM MARRIED
 123
+<<<<<<< HEAD
 
 Butter
+=======
+啦啦啊啦拉啦拉拉啦
+>>>>>>> Ting
