@@ -11,4 +11,8 @@ JKJM MARRIED
 
 Butter
 100000000
+<<<<<<< HEAD
 
+=======
+Jimmmmmmmmmmmmmmmmmmmmmmm
+>>>>>>> Jimin
